@@ -6,7 +6,6 @@
 **Option A: Smart Fitness Session Analyzer**
 
 **Student:** Sandra Østrem  
-**Student number:** YOUR STUDENT NUMBER
 
 ## 1. Project Description
 
